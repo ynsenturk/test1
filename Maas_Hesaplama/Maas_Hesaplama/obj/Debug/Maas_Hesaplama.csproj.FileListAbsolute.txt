@@ -1,0 +1,7 @@
+C:\Users\SENTURK\Desktop\Maas Hesaplama\Maas_Hesaplama\Maas_Hesaplama\obj\Debug\Maas_Hesaplama.csprojAssemblyReference.cache
+C:\Users\SENTURK\Desktop\Maas Hesaplama\Maas_Hesaplama\Maas_Hesaplama\obj\Debug\Maas_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\SENTURK\Desktop\Maas Hesaplama\Maas_Hesaplama\Maas_Hesaplama\bin\Debug\Maas_Hesaplama.exe.config
+C:\Users\SENTURK\Desktop\Maas Hesaplama\Maas_Hesaplama\Maas_Hesaplama\bin\Debug\Maas_Hesaplama.exe
+C:\Users\SENTURK\Desktop\Maas Hesaplama\Maas_Hesaplama\Maas_Hesaplama\bin\Debug\Maas_Hesaplama.pdb
+C:\Users\SENTURK\Desktop\Maas Hesaplama\Maas_Hesaplama\Maas_Hesaplama\obj\Debug\Maas_Hesaplama.exe
+C:\Users\SENTURK\Desktop\Maas Hesaplama\Maas_Hesaplama\Maas_Hesaplama\obj\Debug\Maas_Hesaplama.pdb

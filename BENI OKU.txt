@@ -1,0 +1,5 @@
+Proje Visual Studio programý ile yapýlmýþ olup, C# dilinde, konsol uygulamasý olarak yazýlmýþtýr.
+Projeyi çalýþtýrmak için izlemeniz gereken yol: 
+Maas_Hesaplama\Maas_Hesaplama\bin\Debug klasorönün altýndaki Maas_Hesaplama.exe isimli uygulama dosyasýný çalýþtýrmanýz yeterli olacaktýr.
+
+NOT: 2. Proje olan maaþ hesaplama projesin açýklama bölümünden anlaþýldýðý gibi yapýlmýþtýr.
